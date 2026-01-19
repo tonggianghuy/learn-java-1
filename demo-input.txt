@@ -1,0 +1,58 @@
+1
+FX00001
+Nguyen Van A
+Fall2022
+1
+FX00002
+Nguyen Van B
+Fall2022
+2
+FX00003
+Nguyen Van C
+Spring2023
+1
+FX00001
+Nguyen Van A
+Spring2023
+1
+FX00004
+Tran Thi D
+Fall2022
+3
+FX00005
+Le Van E
+Summer2023
+1
+FX00006
+Pham Thi F
+Fall2022
+2
+FX00007
+Hoang Van G
+Spring2023
+3
+FX00008
+Vo Thi H
+Fall2022
+1
+FX00009
+Dang Van I
+Summer2023
+2
+FX00010
+Bui Thi K
+Spring2023
+1
+N
+4
+2
+Nguyen
+3
+FX00001
+1
+U
+Nguyen Van An
+
+0
+4
+5
